@@ -46,6 +46,8 @@
       </div>
     </nav>
 
+    <!-- Nice working on Heroku for PHP hosting-->
+
     <main role="main" class="container">
 
       <div class="starter-template">
